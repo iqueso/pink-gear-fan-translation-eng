@@ -7,8 +7,11 @@ PINK GEAR is made with Macromedia Director 5. This translation works by modifyin
 
 # Credits
 LoneDev
+
 FELON
+
 Saint
+
 Nosamu
 
 # Contributing
