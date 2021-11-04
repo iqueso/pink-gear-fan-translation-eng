@@ -1,0 +1,2 @@
+# cast-original - Orignal Cast Files
+Original cast member files (.cxt) will go here when we begin working on a cast member. If a file is in here, there should be an equivalent file (.cst) by the translation team in the game directory. Files will be moved when work begins on a new cast file.
