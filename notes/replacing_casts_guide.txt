@@ -1,0 +1,12 @@
+1. Open Director 5 and go to Modify -> Movie -> Casts
+2. Click "Link..." and change the "Files of type" dropdown to "All files"
+3. Select one of the game's CXT files. For example, if you want to edit the translation for A_IN03, select A_IN03.cxt.
+4. Click OK and click Window -> Cast -> Castname to start editing the cast file.
+5. Click Window -> Message to open the Message Window if it's not already open.
+6. Find a bitmap cast member that needs to be replaced. Make a note of its name. Type put the regPoint of member "name" into the Message Window and press Enter.
+7. Select the cast member and delete it. Click File -> Import and select the bitmap file to replace it.
+8. In the Image Options dialog that pops up, choose the palette matching the cast name.
+9. Set the cast member's name back to the original name.
+10. Copy the registration point that you got in step 6. Set the registration point back to this value by typing this into the Message Window: set the regPoint of member "name" to point(x, y), replacing point(x, y) with the point you copied.
+11. When you finish inserting cast members, make sure that the Cast window is selected, then click File -> Save As...
+12. Rename the saved .cst file to .cxt, then replace the original cast file in the game's directory. Run the game and check if the translations look good!
