@@ -28,3 +28,77 @@ put the regPoint of member 21 of castLib "“à‘ "
 
 put the regPoint of member 22 of castLib "“à‘ "
 -- point(164, 17)
+
+
+A_IN03C.CXT
+put the regPoint of member 48 of castLib "A_IN03C"
+-- point(191, 144)
+
+put the regPoint of member 51 of castLib "A_IN03C"
+-- point(191, 138)
+
+put the regPoint of member 54 of castLib "A_IN03C"
+-- point(191, 139)
+
+put the regPoint of member 57 of castLib "A_IN03C"
+-- point(187, 138)
+
+put the regPoint of member 59 of castLib "A_IN03C"
+-- point(187, 139)
+
+put the regPoint of member 62 of castLib "A_IN03C"
+-- point(171, 119)
+
+put the regPoint of member 64 of castLib "A_IN03C"
+-- point(170, 119)
+
+put the regPoint of member 88 of castLib "A_IN03C"
+-- point(280, 185)
+
+put the regPoint of member 99 of castLib "A_IN03C"
+-- point(0, 0)
+
+put the regPoint of member 135 of castLib "A_IN03C"
+-- point(148, 139)
+
+put the regPoint of member 136 of castLib "A_IN03C"
+-- point(146, 64)
+
+put the regPoint of member 137 of castLib "A_IN03C"
+-- point(183, 4)
+
+put the regPoint of member 138 of castLib "A_IN03C"
+-- point(183, 4)
+
+put the regPoint of member 139 of castLib "A_IN03C"
+-- point(145, -86)
+
+set the regPoint of member 48 of castLib "A_IN03C" to point(191, 144)
+
+set the regPoint of member 48 of castLib "A_IN03C" to point(191, 144)
+
+set the regPoint of member 51 of castLib "A_IN03C" to point(191, 138)
+
+set the regPoint of member 54 of castLib "A_IN03C" to point(191, 139)
+
+set the regPoint of member 57 of castLib "A_IN03C" to point(187, 138)
+
+set the regPoint of member 59 of castLib "A_IN03C" to point(187, 139)
+
+set the regPoint of member 62 of castLib "A_IN03C" to point(171, 119)
+
+set the regPoint of member 64 of castLib "A_IN03C" to point(170, 119)
+
+set the regPoint of member 88 of castLib "A_IN03C" to point(280, 185)
+
+set the regPoint of member 99 of castLib "A_IN03C" to point(0, 0)
+
+set the regPoint of member 135 of castLib "A_IN03C" to point(184, 146)
+
+set the regPoint of member 136 of castLib "A_IN03C" to point(184, 79)
+
+set the regPoint of member 137 of castLib "A_IN03C" to point(183, 4)
+
+set the regPoint of member 138 of castLib "A_IN03C" to point(183, 4)
+
+set the regPoint of member 139 of castLib "A_IN03C" to point(184, -80)

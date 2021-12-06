@@ -1,0 +1,4 @@
+Scrolling text box bitmap registration point formula: point(new_width/2, original_y + (new_height - original_height)/2
+So the x-coordinate of the registration point is simple. It's just half the width of the new bitmap.
+The y-coordinate is more tricky. First you subtract the height of the original bitmap from the height of the new bitmap, and divide by 2. Then you add that to the y-coordinate of the original registration point.
+So for A_IN03C.cxt_136, the original registration point is point(146, 64). The original bitmap is 32 pixels tall and the new one is 62 pixels tall. Take the difference and divide by 2, and you get 15. Add 15 to 64 and you get 79. So the new registration point is point(184, 79) 
