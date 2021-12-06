@@ -1,0 +1,30 @@
+put the regPoint of member 135 of castLib "A_IN03C"
+
+set the regPoint of member 135 of castLib "A_IN03C" to point(148, 139)
+
+
+A_IN01W.DIR
+put the regPoint of member 21 of castLib "“à‘ "
+-- point(162, 26)
+
+put the regPoint of member 22
+-- point(162, 8)
+ of castLib "“à‘ "
+
+put the regPoint of member 23
+-- point(163, 24)
+ of castLib "“à‘ "
+put the regPoint of member 24
+-- point(164, 17)
+ of castLib "“à‘ "
+
+set the regPoint of member 21 of castLib "“à‘ " to point(162, 26)
+
+
+
+A_IN.DIR
+put the regPoint of member 21 of castLib "“à‘ "
+-- point(143, 25)
+
+put the regPoint of member 22 of castLib "“à‘ "
+-- point(164, 17)
