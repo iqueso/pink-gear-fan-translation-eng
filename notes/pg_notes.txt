@@ -565,7 +565,7 @@ set the regPoint of member 93 of castLib "C7_BASEC" to point(137, 22)
 
 set the regPoint of member 94 of castLib "C7_BASEC" to point(137, 29)
 
-set the regPoint of member 97 of castLib "C7_BASEC" to point(89, 22)
+set the regPoint of member 97 of castLib "C7_BASEC" to point(124, 29)
 
 set the regPoint of member 98 of castLib "C7_BASEC" to point(99, 23)
 
