@@ -12,9 +12,9 @@ FELON - Asset modifications
 
 Saint - Text translation
 
-Nosamu - Director hacking assistance, methods for replacing assets/casts
+Nosamu - Director hacking, methods for replacing assets/casts
 
-MOS Technology 6502 - Pink Gear asset rips, Director hacking
+MOS Technology 6502 - Pink Gear asset rips
 
 iQu3so/Kagrenac - Some image edits, cast replacements
 
