@@ -410,3 +410,32 @@ put the regPoint of member 141 of castLib "A_STARTC"
 -- point(91, 15)
 
 set the regPoint of member 141 of castLib "A_STARTC" to point(91, 15)
+
+
+
+B_STARTC.CXT
+put the regPoint of member 108 of castLib "B_STARTC"
+-- point(92, 16)
+
+put the regPoint of member 147 of castLib "B_STARTC"
+-- point(132, 31)
+
+put the regPoint of member 148 of castLib "B_STARTC"
+-- point(111, 50)
+
+put the regPoint of member 149 of castLib "B_STARTC"
+-- point(75, 16)
+
+put the regPoint of member 150 of castLib "B_STARTC"
+-- point(113, 58)
+
+set the regPoint of member 108 of castLib "B_STARTC" to point(92, 16)
+
+set the regPoint of member 147 of castLib "B_STARTC" to point(132, 31)
+
+set the regPoint of member 148 of castLib "B_STARTC" to point(111, 50)
+
+set the regPoint of member 149 of castLib "B_STARTC" to point(75, 18)
+
+set the regPoint of member 150 of castLib "B_STARTC" to point(113, 58)
+
