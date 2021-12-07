@@ -439,3 +439,134 @@ set the regPoint of member 149 of castLib "B_STARTC" to point(75, 18)
 
 set the regPoint of member 150 of castLib "B_STARTC" to point(113, 58)
 
+
+C7_BASEC
+put the regPoint of member 70 of castLib "C7_BASEC"
+-- point(137, 25)
+
+put the regPoint of member 71 of castLib "C7_BASEC"
+-- point(137, 29)
+
+put the regPoint of member 72 of castLib "C7_BASEC"
+-- point(111, 30)
+
+put the regPoint of member 73 of castLib "C7_BASEC"
+-- point(137, 27)
+
+put the regPoint of member 76 of castLib "C7_BASEC"
+-- point(0, 0)
+
+put the regPoint of member 77 of castLib "C7_BASEC"
+-- point(0, 0)
+
+put the regPoint of member 78 of castLib "C7_BASEC"
+-- point(101, 22)
+
+put the regPoint of member 79 of castLib "C7_BASEC"
+-- point(137, 23)
+
+put the regPoint of member 80 of castLib "C7_BASEC"
+-- point(135, 23)
+
+put the regPoint of member 81 of castLib "C7_BASEC"
+-- point(104, 23)
+
+put the regPoint of member 82 of castLib "C7_BASEC"
+-- point(93, 15)
+
+put the regPoint of member 83 of castLib "C7_BASEC"
+-- point(94, 22)
+
+put the regPoint of member 84 of castLib "C7_BASEC"
+-- point(88, 22)
+
+put the regPoint of member 85 of castLib "C7_BASEC"
+-- point(135, 30)
+
+put the regPoint of member 86 of castLib "C7_BASEC"
+-- point(137, 30)
+
+put the regPoint of member 87 of castLib "C7_BASEC"
+-- point(117, 30)
+
+put the regPoint of member 88 of castLib "C7_BASEC"
+-- point(136, 29)
+
+put the regPoint of member 89 of castLib "C7_BASEC"
+-- point(137, 30)
+
+put the regPoint of member 90 of castLib "C7_BASEC"
+-- point(137, 22)
+
+put the regPoint of member 91 of castLib "C7_BASEC"
+-- point(123, 29)
+
+put the regPoint of member 92 of castLib "C7_BASEC"
+-- point(123, 29)
+
+put the regPoint of member 93 of castLib "C7_BASEC"
+-- point(137, 22)
+
+put the regPoint of member 94 of castLib "C7_BASEC"
+-- point(137, 29)
+
+put the regPoint of member 97 of castLib "C7_BASEC"
+-- point(89, 22)
+
+put the regPoint of member 98 of castLib "C7_BASEC"
+-- point(99, 23)
+
+put the regPoint of member 99 of castLib "C7_BASEC"
+-- point(128, 23)
+
+set the regPoint of member 70 of castLib "C7_BASEC" to point(137, 25)
+
+set the regPoint of member 71 of castLib "C7_BASEC" to point(137, 29)
+
+set the regPoint of member 72 of castLib "C7_BASEC" to point(111, 30)
+
+set the regPoint of member 73 of castLib "C7_BASEC" to point(137, 27)
+
+set the regPoint of member 76 of castLib "C7_BASEC" to point(0, 0)
+
+set the regPoint of member 77 of castLib "C7_BASEC" to point(0, 0)
+
+set the regPoint of member 78 of castLib "C7_BASEC" to point(101, 22)
+
+set the regPoint of member 79 of castLib "C7_BASEC" to point(137, 23)
+
+set the regPoint of member 80 of castLib "C7_BASEC" to point(135, 23)
+
+set the regPoint of member 81 of castLib "C7_BASEC" to point(104, 23)
+
+set the regPoint of member 82 of castLib "C7_BASEC" to point(93, 15)
+
+set the regPoint of member 83 of castLib "C7_BASEC" to point(94, 22)
+
+set the regPoint of member 84 of castLib "C7_BASEC" to point(88, 22)
+
+set the regPoint of member 85 of castLib "C7_BASEC" to point(135, 30)
+
+set the regPoint of member 86 of castLib "C7_BASEC" to point(137, 30)
+
+set the regPoint of member 87 of castLib "C7_BASEC" to point(117, 30)
+
+set the regPoint of member 88 of castLib "C7_BASEC" to point(136, 29)
+
+set the regPoint of member 89 of castLib "C7_BASEC" to point(137, 30)
+
+set the regPoint of member 90 of castLib "C7_BASEC" to point(124, 29)
+
+set the regPoint of member 91 of castLib "C7_BASEC" to point(123, 29)
+
+set the regPoint of member 92 of castLib "C7_BASEC" to point(123, 29)
+
+set the regPoint of member 93 of castLib "C7_BASEC" to point(137, 22)
+
+set the regPoint of member 94 of castLib "C7_BASEC" to point(137, 29)
+
+set the regPoint of member 97 of castLib "C7_BASEC" to point(89, 22)
+
+set the regPoint of member 98 of castLib "C7_BASEC" to point(99, 23)
+
+set the regPoint of member 99 of castLib "C7_BASEC" to point(128, 23)
