@@ -408,3 +408,5 @@ set the regPoint of member 135 of castLib "A_ITEMCT" to point (0, 0)
 A_STARTC.CXT
 put the regPoint of member 141 of castLib "A_STARTC"
 -- point(91, 15)
+
+set the regPoint of member 141 of castLib "A_STARTC" to point(91, 15)
