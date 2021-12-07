@@ -102,3 +102,311 @@ set the regPoint of member 137 of castLib "A_IN03C" to point(183, 4)
 set the regPoint of member 138 of castLib "A_IN03C" to point(183, 4)
 
 set the regPoint of member 139 of castLib "A_IN03C" to point(184, -80)
+
+
+C2_TWINC.CXT
+put the regPoint of member 57 of castLib "C2_TWINC"
+-- point(91, 30)
+
+put the regPoint of member 58 of castLib "C2_TWINC"
+-- point(91, 22)
+
+put the regPoint of member 59 of castLib "C2_TWINC"
+-- point(80, 37)
+
+put the regPoint of member 60 of castLib "C2_TWINC"
+-- point(80, 30)
+
+put the regPoint of member 61 of castLib "C2_TWINC"
+-- point(91, 30)
+
+put the regPoint of member 62 of castLib "C2_TWINC"
+-- point(92, 52)
+
+put the regPoint of member 63 of castLib "C2_TWINC"
+-- point(80, 29)
+
+put the regPoint of member 64 of castLib "C2_TWINC"
+-- point(80, 44)
+
+put the regPoint of member 65 of castLib "C2_TWINC"
+-- point(91, 38)
+
+put the regPoint of member 66 of castLib "C2_TWINC"
+-- point(91, 30)
+
+put the regPoint of member 67 of castLib "C2_TWINC"
+-- point(91, 44)
+
+put the regPoint of member 68 of castLib "C2_TWINC"
+-- point(91, 29)
+
+put the regPoint of member 69 of castLib "C2_TWINC"
+-- point(80, 45)
+
+put the regPoint of member 70 of castLib "C2_TWINC"
+-- point(80, 37)
+
+put the regPoint of member 71 of castLib "C2_TWINC"
+-- point(80, 45)
+
+put the regPoint of member 72 of castLib "C2_TWINC"
+-- point(91, 46)
+
+put the regPoint of member 73 of castLib "C2_TWINC"
+-- point(91, 45)
+
+put the regPoint of member 74 of castLib "C2_TWINC"
+-- point(80, 53)
+
+put the regPoint of member 75 of castLib "C2_TWINC"
+-- point(91, 45)
+
+put the regPoint of member 76 of castLib "C2_TWINC"
+-- point(91, 23)
+
+put the regPoint of member 77 of castLib "C2_TWINC"
+-- point(91, 45)
+
+put the regPoint of member 78 of castLib "C2_TWINC"
+-- point(80, 45)
+
+put the regPoint of member 79 of castLib "C2_TWINC"
+-- point(80, 60)
+
+put the regPoint of member 80 of castLib "C2_TWINC"
+-- point(92, 52)
+
+put the regPoint of member 81 of castLib "C2_TWINC"
+-- point(91, 23)
+
+put the regPoint of member 82 of castLib "C2_TWINC"
+-- point(80, 37)
+
+put the regPoint of member 83 of castLib "C2_TWINC"
+-- point(80, 30)
+
+put the regPoint of member 84 of castLib "C2_TWINC"
+-- point(91, 22)
+
+put the regPoint of member 85 of castLib "C2_TWINC"
+-- point(91, 57)
+
+put the regPoint of member 86 of castLib "C2_TWINC"
+-- point(80, 31)
+
+put the regPoint of member 87 of castLib "C2_TWINC"
+-- point(91, 29)
+
+put the regPoint of member 88 of castLib "C2_TWINC"
+-- point(91, 53)
+
+put the regPoint of member 89 of castLib "C2_TWINC"
+-- point(91, 46)
+
+put the regPoint of member 90 of castLib "C2_TWINC"
+-- point(80, 37)
+
+put the regPoint of member 91 of castLib "C2_TWINC"
+-- point(81, 45)
+
+put the regPoint of member 92 of castLib "C2_TWINC"
+-- point(92, 44)
+
+put the regPoint of member 93 of castLib "C2_TWINC"
+-- point(91, 37)
+
+put the regPoint of member 94 of castLib "C2_TWINC"
+-- point(92, 37)
+
+put the regPoint of member 95 of castLib "C2_TWINC"
+-- point(92, 45)
+
+put the regPoint of member 96 of castLib "C2_TWINC"
+-- point(82, 37)
+
+put the regPoint of member 97 of castLib "C2_TWINC"
+-- point(91, 29)
+
+put the regPoint of member 98 of castLib "C2_TWINC"
+-- point(91, 37)
+
+put the regPoint of member 99 of castLib "C2_TWINC"
+-- point(91, 22)
+
+put the regPoint of member 100 of castLib "C2_TWINC"
+-- point(80, 37)
+
+put the regPoint of member 101 of castLib "C2_TWINC"
+-- point(80, 37)
+
+put the regPoint of member 103 of castLib "C2_TWINC"
+-- point(0, 0)
+
+put the regPoint of member 104 of castLib "C2_TWINC"
+-- point(1, 0)
+
+
+set the regPoint of member 57 of castLib "C2_TWINC" to point(91, 30)
+
+set the regPoint of member 58 of castLib "C2_TWINC" to point(91, 22)
+
+set the regPoint of member 59 of castLib "C2_TWINC" to point(80, 37)
+
+set the regPoint of member 60 of castLib "C2_TWINC" to point(80, 30)
+
+set the regPoint of member 61 of castLib "C2_TWINC" to point(91, 30)
+
+set the regPoint of member 62 of castLib "C2_TWINC" to point(92, 52)
+
+set the regPoint of member 63 of castLib "C2_TWINC" to point(80, 29)
+
+set the regPoint of member 64 of castLib "C2_TWINC" to point(80, 44)
+
+set the regPoint of member 65 of castLib "C2_TWINC" to point(91, 38)
+
+set the regPoint of member 66 of castLib "C2_TWINC" to point(91, 30)
+
+set the regPoint of member 67 of castLib "C2_TWINC" to point(91, 44)
+
+set the regPoint of member 68 of castLib "C2_TWINC" to point(91, 29)
+
+set the regPoint of member 69 of castLib "C2_TWINC" to point(80, 45)
+
+set the regPoint of member 70 of castLib "C2_TWINC" to point(80, 37)
+
+set the regPoint of member 71 of castLib "C2_TWINC" to point(80, 45)
+
+set the regPoint of member 72 of castLib "C2_TWINC" to point(91, 46)
+
+set the regPoint of member 73 of castLib "C2_TWINC" to point(91, 45)
+
+set the regPoint of member 74 of castLib "C2_TWINC" to point(80, 53)
+
+set the regPoint of member 75 of castLib "C2_TWINC" to point(91, 45)
+
+set the regPoint of member 76 of castLib "C2_TWINC" to point(91, 23)
+
+set the regPoint of member 77 of castLib "C2_TWINC" to point(91, 45)
+
+set the regPoint of member 78 of castLib "C2_TWINC" to point(80, 45)
+
+set the regPoint of member 79 of castLib "C2_TWINC" to point(80, 60)
+
+set the regPoint of member 80 of castLib "C2_TWINC" to point(92, 52)
+
+set the regPoint of member 81 of castLib "C2_TWINC" to point(91, 23)
+
+set the regPoint of member 82 of castLib "C2_TWINC" to point(80, 37)
+
+set the regPoint of member 83 of castLib "C2_TWINC" to point(80, 30)
+
+set the regPoint of member 84 of castLib "C2_TWINC" to point(91, 22)
+
+set the regPoint of member 85 of castLib "C2_TWINC" to point(91, 57)
+
+set the regPoint of member 86 of castLib "C2_TWINC" to point(80, 31)
+
+set the regPoint of member 87 of castLib "C2_TWINC" to point(91, 29)
+
+set the regPoint of member 88 of castLib "C2_TWINC" to point(91, 53)
+
+set the regPoint of member 89 of castLib "C2_TWINC" to point(91, 46)
+
+set the regPoint of member 90 of castLib "C2_TWINC" to point(80, 37)
+
+set the regPoint of member 91 of castLib "C2_TWINC" to point(81, 45)
+
+set the regPoint of member 92 of castLib "C2_TWINC" to point(92, 44)
+
+set the regPoint of member 93 of castLib "C2_TWINC" to point(91, 37)
+
+set the regPoint of member 94 of castLib "C2_TWINC" to point(92, 37)
+
+set the regPoint of member 95 of castLib "C2_TWINC" to point(92, 45)
+
+set the regPoint of member 96 of castLib "C2_TWINC" to point(82, 37)
+
+set the regPoint of member 97 of castLib "C2_TWINC" to point(91, 29)
+
+set the regPoint of member 98 of castLib "C2_TWINC" to point(91, 37)
+
+set the regPoint of member 99 of castLib "C2_TWINC" to point(91, 22)
+
+set the regPoint of member 100 of castLib "C2_TWINC" to point(80, 37)
+
+set the regPoint of member 101 of castLib "C2_TWINC" to point(80, 37)
+
+set the regPoint of member 103 of castLib "C2_TWINC" to point(0, 0)
+
+set the regPoint of member 104 of castLib "C2_TWINC" to point(1, 0)
+
+
+A_ITEMCT.CXT
+put the regPoint of member 124 of castLib "A_ITEMCT"
+-- point(0, 0)
+
+put the regPoint of member 125 of castLib "A_ITEMCT"
+-- point(0, 0)
+
+put the regPoint of member 126 of castLib "A_ITEMCT"
+-- point(0, 0)
+
+put the regPoint of member 127 of castLib "A_ITEMCT"
+-- point(0, 0)
+
+put the regPoint of member 128 of castLib "A_ITEMCT"
+-- point(0, 0)
+
+put the regPoint of member 129 of castLib "A_ITEMCT"
+-- point(0, 0)
+
+put the regPoint of member 130 of castLib "A_ITEMCT"
+-- point(0, 0)
+
+put the regPoint of member 131 of castLib "A_ITEMCT"
+-- point(0, 0)
+
+put the regPoint of member 132 of castLib "A_ITEMCT"
+-- point(0, 0)
+
+put the regPoint of member 133 of castLib "A_ITEMCT"
+-- point(0, 0)
+
+put the regPoint of member 134 of castLib "A_ITEMCT"
+-- point(0, 0)
+
+put the regPoint of member 135 of castLib "A_ITEMCT"
+-- point(0, 0)
+
+
+set the regPoint of member 124 of castLib "A_ITEMCT" to point (0, 0)
+
+set the regPoint of member 125 of castLib "A_ITEMCT" to point (0, 0)
+
+set the regPoint of member 126 of castLib "A_ITEMCT" to point (0, 0)
+
+set the regPoint of member 127 of castLib "A_ITEMCT" to point (0, 0)
+
+set the regPoint of member 128 of castLib "A_ITEMCT" to point (0, 0)
+
+set the regPoint of member 129 of castLib "A_ITEMCT" to point (0, 0)
+
+set the regPoint of member 130 of castLib "A_ITEMCT" to point (0, 0)
+
+set the regPoint of member 131 of castLib "A_ITEMCT" to point (0, 0)
+
+set the regPoint of member 132 of castLib "A_ITEMCT" to point (0, 0)
+
+set the regPoint of member 133 of castLib "A_ITEMCT" to point (0, 0)
+
+set the regPoint of member 134 of castLib "A_ITEMCT" to point (0, 0)
+
+set the regPoint of member 135 of castLib "A_ITEMCT" to point (0, 0)
+
+
+A_STARTC.CXT
+put the regPoint of member 141 of castLib "A_STARTC"
+-- point(91, 15)
+
+set the regPoint of member 141 of castLib "A_STARTC" to point(91, 15)
