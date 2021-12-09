@@ -1,2 +1,5 @@
 A_IN03C
 Cast members 135 - 139 look a bit off center (biased to the right). The original text may have this trait too. Maybe fix in the future.
+
+C7_BASEC
+Cast member 97 has some clipping with the player name in the score preview of Director MX 
