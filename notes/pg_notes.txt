@@ -570,3 +570,113 @@ set the regPoint of member 97 of castLib "C7_BASEC" to point(124, 29)
 set the regPoint of member 98 of castLib "C7_BASEC" to point(99, 23)
 
 set the regPoint of member 99 of castLib "C7_BASEC" to point(128, 23)
+
+
+E2_GUITC.CXT
+put the regPoint of member 159 of castLib "E2_GUITC"
+-- point(139, 32)
+
+set the regPoint of member 159 of castLib "E2_GUITC" to point(139, 32)
+
+
+E3_GUITC.CXT
+put the regPoint of member 42 of castLib "E3_GUITC"
+-- point(89, 14)
+
+put the regPoint of member 44 of castLib "E3_GUITC"
+-- point(101, 21)
+
+put the regPoint of member 45 of castLib "E3_GUITC"
+-- point(63, 28)
+
+put the regPoint of member 46 of castLib "E3_GUITC"
+-- point(98, 21)
+
+put the regPoint of member 47 of castLib "E3_GUITC"
+-- point(86, 35)
+
+put the regPoint of member 49 of castLib "E3_GUITC"
+-- point(84, 28)
+
+put the regPoint of member 50 of castLib "E3_GUITC"
+-- point(77, 28)
+
+put the regPoint of member 51 of castLib "E3_GUITC"
+-- point(99, 35)
+
+put the regPoint of member 52 of castLib "E3_GUITC"
+-- point(92, 21)
+
+put the regPoint of member 53 of castLib "E3_GUITC"
+-- point(98, 29)
+
+put the regPoint of member 54 of castLib "E3_GUITC"
+-- point(99, 36)
+
+put the regPoint of member 55 of castLib "E3_GUITC"
+-- point(98, 35)
+
+put the regPoint of member 56 of castLib "E3_GUITC"
+-- point(96, 28)
+
+put the regPoint of member 58 of castLib "E3_GUITC"
+-- point(99, 28)
+
+put the regPoint of member 59 of castLib "E3_GUITC"
+-- point(100, 35)
+
+put the regPoint of member 61 of castLib "E3_GUITC"
+-- point(99, 21)
+
+put the regPoint of member 62 of castLib "E3_GUITC"
+-- point(97, 20)
+
+put the regPoint of member 63 of castLib "E3_GUITC"
+-- point(84, 28)
+
+put the regPoint of member 64 of castLib "E3_GUITC"
+-- point(97, 28)
+
+
+
+set the regPoint of member 42 of castLib "E3_GUITC" to point(89, 14)
+
+set the regPoint of member 44 of castLib "E3_GUITC" to point(101, 21)(84, 22)*
+
+set the regPoint of member 45 of castLib "E3_GUITC" to point(63, 28)(68, 19)*
+
+set the regPoint of member 46 of castLib "E3_GUITC" to point(98, 21)
+
+set the regPoint of member 47 of castLib "E3_GUITC" to point(86, 35)
+
+set the regPoint of member 49 of castLib "E3_GUITC" to point(84, 28)
+
+set the regPoint of member 50 of castLib "E3_GUITC" to point(77, 28)
+
+set the regPoint of member 51 of castLib "E3_GUITC" to point(99, 35)
+
+set the regPoint of member 52 of castLib "E3_GUITC" to point(92, 21)
+
+set the regPoint of member 53 of castLib "E3_GUITC" to point(98, 29)
+
+set the regPoint of member 54 of castLib "E3_GUITC" to point(99, 36)
+
+set the regPoint of member 55 of castLib "E3_GUITC" to point(98, 38)
+
+set the regPoint of member 56 of castLib "E3_GUITC" to point(96, 28)
+
+set the regPoint of member 58 of castLib "E3_GUITC" to point(99, 28)
+
+set the regPoint of member 59 of castLib "E3_GUITC" to point(100, 35)
+
+set the regPoint of member 61 of castLib "E3_GUITC" to point(99, 21)(95, 18)*
+
+set the regPoint of member 62 of castLib "E3_GUITC" to point(97, 20)
+
+set the regPoint of member 63 of castLib "E3_GUITC" to point(84, 28)
+
+set the regPoint of member 64 of castLib "E3_GUITC" to point(97, 28)
+
+
+
+* - The latter points in these commands were manually set using Director's regpoint editor. This was done in order to better center the images and account for player name.

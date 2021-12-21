@@ -3,3 +3,7 @@ Cast members 135 - 139 look a bit off center (biased to the right). The original
 
 C7_BASEC
 Cast member 97 has some clipping with the player name in the score preview of Director MX 
+
+
+E3_GUITC
+Cast members 44, 45, and 61 unnecessarily reference the player name. We had to make modifications to these members to fit the text. We should look into scripting the player name out if possible/necessary. Cast member regpoints were manually modified to better center the images.
