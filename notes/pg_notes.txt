@@ -641,7 +641,14 @@ put the regPoint of member 64 of castLib "E3_GUITC"
 
 set the regPoint of member 42 of castLib "E3_GUITC" to point(89, 14)
 
-set the regPoint of member 44 of castLib "E3_GUITC" to point(101, 21)(84, 22)*
+set the regPoint of member 44 of castLib "E3_GUITC" to point(101, 21)(92, 20)
+(shows on frame 21)
+(script to remove player name from cast 44..)
+on exitFrame
+  if the frame = 20 then 
+    set the visibility of sprite 12 to false
+  end if
+end
 
 set the regPoint of member 45 of castLib "E3_GUITC" to point(63, 28)(68, 19)*
 
