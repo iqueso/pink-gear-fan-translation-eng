@@ -804,3 +804,10 @@ set the regPoint of member 66 of castLib "F3_PLAYC" to point(102, 29)
 set the regPoint of member 67 of castLib "F3_PLAYC" to point(102, 29)
 
 
+H1_GAMF.CXT
+
+put the regPoint of member 135 of castLib "H1_GAMF"
+-- point(104, 16)
+
+set the regPoint of member 135 of castLib "H1_GAMF" to point(104, 16)
+
