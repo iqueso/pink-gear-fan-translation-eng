@@ -687,3 +687,120 @@ set the regPoint of member 64 of castLib "E3_GUITC" to point(97, 28)
 
 
 * - The latter points in these commands were manually set using Director's regpoint editor. This was done in order to better center the images and account for player name.
+
+F3_PLAYC.CXT
+put the regPoint of member 42 of castLib "F3_PLAYC"
+-- point(102, 30)
+
+put the regPoint of member 45 of castLib "F3_PLAYC"
+-- point(102, 30)
+
+put the regPoint of member 46 of castLib "F3_PLAYC"
+-- point(102, 22)
+
+put the regPoint of member 47 of castLib "F3_PLAYC"
+-- point(102, 15)
+
+put the regPoint of member 48 of castLib "F3_PLAYC"
+-- point(102, 30)
+
+put the regPoint of member 49 of castLib "F3_PLAYC"
+-- point(102, 30)
+
+put the regPoint of member 50 of castLib "F3_PLAYC"
+-- point(102, 23)
+
+put the regPoint of member 51 of castLib "F3_PLAYC"
+-- point(102, 30)
+
+put the regPoint of member 52 of castLib "F3_PLAYC"
+-- point(102, 23)
+
+put the regPoint of member 53 of castLib "F3_PLAYC"
+-- point(102, 29)
+
+put the regPoint of member 54 of castLib "F3_PLAYC"
+-- point(102, 29)
+
+put the regPoint of member 55 of castLib "F3_PLAYC"
+-- point(102, 22)
+
+put the regPoint of member 57 of castLib "F3_PLAYC"
+-- point(102, 22)
+
+put the regPoint of member 58 of castLib "F3_PLAYC"
+-- point(102, 22)
+
+put the regPoint of member 59 of castLib "F3_PLAYC"
+-- point(102, 30)
+
+put the regPoint of member 60 of castLib "F3_PLAYC"
+-- point(102, 30)
+
+put the regPoint of member 61 of castLib "F3_PLAYC"
+-- point(102, 30)
+
+put the regPoint of member 62 of castLib "F3_PLAYC"
+-- point(102, 30)
+
+put the regPoint of member 63 of castLib "F3_PLAYC"
+-- point(102, 29)
+
+put the regPoint of member 64 of castLib "F3_PLAYC"
+-- point(102, 29)
+
+put the regPoint of member 65 of castLib "F3_PLAYC"
+-- point(102, 21)
+
+put the regPoint of member 66 of castLib "F3_PLAYC"
+-- point(102, 29)
+
+put the regPoint of member 67 of castLib "F3_PLAYC"
+-- point(102, 29)
+
+
+set the regPoint of member 45 of castLib "F3_PLAYC" to point(102, 30)
+
+set the regPoint of member 46 of castLib "F3_PLAYC" to point(102, 22)
+
+set the regPoint of member 47 of castLib "F3_PLAYC" to point(102, 15)
+
+set the regPoint of member 48 of castLib "F3_PLAYC" to point(102, 30)
+
+set the regPoint of member 49 of castLib "F3_PLAYC" to point(102, 30)
+
+set the regPoint of member 50 of castLib "F3_PLAYC" to point(102, 23)
+
+set the regPoint of member 51 of castLib "F3_PLAYC" to point(102, 30)
+
+set the regPoint of member 52 of castLib "F3_PLAYC" to point(102, 23)
+
+set the regPoint of member 53 of castLib "F3_PLAYC" to point(102, 29)
+
+set the regPoint of member 54 of castLib "F3_PLAYC" to point(102, 29)
+
+set the regPoint of member 55 of castLib "F3_PLAYC" to point(102, 22)
+
+set the regPoint of member 57 of castLib "F3_PLAYC" to point(102, 22)
+
+set the regPoint of member 58 of castLib "F3_PLAYC" to point(102, 22)
+
+set the regPoint of member 59 of castLib "F3_PLAYC" to point(102, 30)
+
+set the regPoint of member 60 of castLib "F3_PLAYC" to point(102, 30)
+
+set the regPoint of member 61 of castLib "F3_PLAYC" to point(102, 30)
+
+set the regPoint of member 62 of castLib "F3_PLAYC" to point(102, 30)
+
+set the regPoint of member 63 of castLib "F3_PLAYC" to point(102, 29)
+
+set the regPoint of member 64 of castLib "F3_PLAYC" to point(102, 29)
+
+set the regPoint of member 65 of castLib "F3_PLAYC" to point(102, 21)
+
+set the regPoint of member 66 of castLib "F3_PLAYC" to point(102, 29)
+
+set the regPoint of member 67 of castLib "F3_PLAYC" to point(102, 29)
+
+
