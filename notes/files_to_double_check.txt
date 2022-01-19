@@ -7,3 +7,10 @@ Cast member 97 has some clipping with the player name in the score preview of Di
 
 E3_GUITC
 Cast members 44, 45, and 61 unnecessarily reference the player name. We had to make modifications to these members to fit the text. We should look into scripting the player name out if possible/necessary. Cast member regpoints were manually modified to better center the images.
+The "Obtained Fragment" screen has weird positioning for the player name. If we can reposition the player name, we should align it better to accommodate longer names.
+
+F3_PLAYC
+Cast member 42's name clips into the text. There are ongoing efforts to move this player name or sub it in with one that we can manipulate, but this is something we will need to fix before release.
+
+H1_GAMF
+Member 135 (the only file being replaced) can't be found in score so we can't test or verify whether it is in-game.
