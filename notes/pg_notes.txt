@@ -811,3 +811,538 @@ put the regPoint of member 135 of castLib "H1_GAMF"
 
 set the regPoint of member 135 of castLib "H1_GAMF" to point(104, 16)
 
+
+H2_GAMEC.CXT 
+
+put the regPoint of member 54 of castLib "H2_GAMEC"
+-- point(96, 38)
+
+put the regPoint of member 55 of castLib "H2_GAMEC"
+-- point(96, 37)
+
+put the regPoint of member 56 of castLib "H2_GAMEC"
+-- point(96, 38)
+
+put the regPoint of member 57 of castLib "H2_GAMEC"
+-- point(92, 49)
+
+put the regPoint of member 60 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 61 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 62 of castLib "H2_GAMEC"
+-- point(95, 22)
+
+put the regPoint of member 63 of castLib "H2_GAMEC"
+-- point(71, 23)
+
+put the regPoint of member 70 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 71 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 72 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 73 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 74 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 76 of castLib "H2_GAMEC"
+-- point(98, 37)
+
+put the regPoint of member 78 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 79 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 80 of castLib "H2_GAMEC"
+-- point(1, 0)
+
+put the regPoint of member 81 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 82 of castLib "H2_GAMEC"
+-- point(-2, 0)
+
+put the regPoint of member 83 of castLib "H2_GAMEC"
+-- point(1, 0)
+
+put the regPoint of member 84 of castLib "H2_GAMEC"
+-- point(1, 0)
+
+put the regPoint of member 85 of castLib "H2_GAMEC"
+-- point(1, 0)
+
+put the regPoint of member 86 of castLib "H2_GAMEC"
+-- point(76, 23)
+
+put the regPoint of member 87 of castLib "H2_GAMEC"
+-- point(75, 15)
+
+put the regPoint of member 88 of castLib "H2_GAMEC"
+-- point(81, 14)
+
+put the regPoint of member 89 of castLib "H2_GAMEC"
+-- point(75, -11)
+
+put the regPoint of member 90 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 91 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 92 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 93 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 94 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 95 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 96 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 97 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 98 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 99 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 100 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 101 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 114 of castLib "H2_GAMEC"
+-- point(60, 12)
+
+put the regPoint of member 115 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 116 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 117 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 118 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 119 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 120 of castLib "H2_GAMEC"
+-- point(1, 0)
+
+put the regPoint of member 121 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 122 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 123 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 124 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 125 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 126 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 127 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 128 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 150 of castLib "H2_GAMEC"
+-- point(195, 161)
+
+put the regPoint of member 151 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 152 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 153 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 154 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 155 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 156 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 157 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 158 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 159 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 160 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 161 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 162 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 175 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 176 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 177 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 178 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 179 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 180 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 181 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 182 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 183 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 184 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 185 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 186 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 187 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 188 of castLib "H2_GAMEC"
+-- point(-148, 11)
+
+put the regPoint of member 189 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 190 of castLib "H2_GAMEC"
+-- point(-150, 17)
+
+put the regPoint of member 191 of castLib "H2_GAMEC"
+-- point(195, 162)
+
+put the regPoint of member 192 of castLib "H2_GAMEC"
+-- point(195, 162)
+
+put the regPoint of member 193 of castLib "H2_GAMEC"
+-- point(195, 162)
+
+put the regPoint of member 231 of castLib "H2_GAMEC"
+-- point(196, 154)
+
+put the regPoint of member 236 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 237 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 238 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 239 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 250 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 251 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 252 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 253 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 262 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 263 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 264 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 265 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 266 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 267 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 268 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 269 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 270 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 271 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 272 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+put the regPoint of member 273 of castLib "H2_GAMEC"
+-- point(0, 0)
+
+
+set the regPoint of member 54 of castLib "H2_GAMEC" to point(96, 38)
+
+set the regPoint of member 55 of castLib "H2_GAMEC" to point(96, 38)
+
+set the regPoint of member 55 of castLib "H2_GAMEC" to point(96, 37)
+
+set the regPoint of member 56 of castLib "H2_GAMEC" to point(96, 38)
+
+set the regPoint of member 57 of castLib "H2_GAMEC" to point(92, 49)
+
+set the regPoint of member 60 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 61 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 62 of castLib "H2_GAMEC" to point(95, 22)
+
+set the regPoint of member 63 of castLib "H2_GAMEC" to point(71, 23)
+
+set the regPoint of member 70 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 71 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 72 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 73 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 74 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 76 of castLib "H2_GAMEC" to point(98, 37)
+
+set the regPoint of member 78 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 79 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 80 of castLib "H2_GAMEC" to point(1, 0)
+
+set the regPoint of member 81 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 82 of castLib "H2_GAMEC" to point(-2, 0)
+
+set the regPoint of member 83 of castLib "H2_GAMEC" to point(1, 0)
+
+set the regPoint of member 84 of castLib "H2_GAMEC" to point(1, 0)
+
+set the regPoint of member 85 of castLib "H2_GAMEC" to point(1, 0)
+
+set the regPoint of member 86 of castLib "H2_GAMEC" to point(76, 23)
+
+set the regPoint of member 87 of castLib "H2_GAMEC" to point(75, 15)
+
+set the regPoint of member 88 of castLib "H2_GAMEC" to point(81, 14)
+
+set the regPoint of member 89 of castLib "H2_GAMEC" to point(75, -11)
+
+set the regPoint of member 90 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 91 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 92 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 93 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 94 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 95 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 96 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 97 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 98 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 99 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 100 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 101 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 114 of castLib "H2_GAMEC" to point(60, 12)
+
+set the regPoint of member 115 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 116 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 117 of castLib "H2_GAMEC" to point(92, 0)
+
+set the regPoint of member 118 of castLib "H2_GAMEC" to point(89, 0)
+
+set the regPoint of member 119 of castLib "H2_GAMEC" to point(94, 0)
+
+set the regPoint of member 120 of castLib "H2_GAMEC" to point(99, 1)
+
+set the regPoint of member 121 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 122 of castLib "H2_GAMEC" to point(88, 0)
+
+set the regPoint of member 123 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 124 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 125 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 126 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 127 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 128 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 150 of castLib "H2_GAMEC" to point(195, 161)
+
+set the regPoint of member 151 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 152 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 153 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 154 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 155 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 156 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 157 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 158 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 159 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 160 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 161 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 162 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 175 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 176 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 177 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 178 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 179 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 180 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 181 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 182 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 183 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 184 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 185 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 186 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 187 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 188 of castLib "H2_GAMEC" to point(-148, 11)
+
+set the regPoint of member 189 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 190 of castLib "H2_GAMEC" to point(-150, 17)
+
+set the regPoint of member 191 of castLib "H2_GAMEC" to point(195, 162)
+
+set the regPoint of member 192 of castLib "H2_GAMEC" to point(195, 162)
+
+set the regPoint of member 193 of castLib "H2_GAMEC" to point(195, 162)
+
+set the regPoint of member 231 of castLib "H2_GAMEC" to point(196, 154)
+
+set the regPoint of member 236 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 237 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 238 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 239 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 250 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 251 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 252 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 253 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 262 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 263 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 264 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 265 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 266 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 267 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 268 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 269 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 270 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 271 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 272 of castLib "H2_GAMEC" to point(0, 0)
+
+set the regPoint of member 273 of castLib "H2_GAMEC" to point(0, 0)
