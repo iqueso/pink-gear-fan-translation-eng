@@ -1417,3 +1417,139 @@ put the regPoint of member 46 of castLib "J3_CARDC"
 -- point(90, 16)
 
 set the regPoint of member 46 of castLib "J3_CARDC" to point(90, 16)
+
+
+J4_CARDC.CXT
+put the regPoint of member 8 of castLib "J4_CARDC"
+-- point(92, 13)
+
+put the regPoint of member 44 of castLib "J4_CARDC"
+-- point(96, 37)
+
+put the regPoint of member 47 of castLib "J4_CARDC"
+-- point(96, 30)
+
+put the regPoint of member 48 of castLib "J4_CARDC"
+-- point(96, 15)
+
+put the regPoint of member 53 of castLib "J4_CARDC"
+-- point(30, 12)
+
+put the regPoint of member 54 of castLib "J4_CARDC"
+-- point(30, 12)
+
+put the regPoint of member 55 of castLib "J4_CARDC"
+-- point(30, 12)
+
+put the regPoint of member 56 of castLib "J4_CARDC"
+-- point(30, 12)
+
+put the regPoint of member 57 of castLib "J4_CARDC"
+-- point(95, 37)
+
+put the regPoint of member 58 of castLib "J4_CARDC"
+-- point(94, 15)
+
+put the regPoint of member 59 of castLib "J4_CARDC"
+-- point(94, 30)
+
+put the regPoint of member 60 of castLib "J4_CARDC"
+-- point(93, 7)
+
+put the regPoint of member 61 of castLib "J4_CARDC"
+-- point(74, 22)
+
+put the regPoint of member 62 of castLib "J4_CARDC"
+-- point(94, 22)
+
+put the regPoint of member 63 of castLib "J4_CARDC"
+-- point(94, 29)
+
+put the regPoint of member 65 of castLib "J4_CARDC"
+-- point(94, 30)
+
+put the regPoint of member 66 of castLib "J4_CARDC"
+-- point(95, 30)
+
+put the regPoint of member 67 of castLib "J4_CARDC"
+-- point(94, 37)
+
+put the regPoint of member 68 of castLib "J4_CARDC"
+-- point(94, 30)
+
+put the regPoint of member 69 of castLib "J4_CARDC"
+-- point(94, 22)
+
+put the regPoint of member 70 of castLib "J4_CARDC"
+-- point(94, 15)
+
+put the regPoint of member 71 of castLib "J4_CARDC"
+-- point(94, 37)
+
+put the regPoint of member 72 of castLib "J4_CARDC"
+-- point(94, 37)
+
+put the regPoint of member 75 of castLib "J4_CARDC"
+-- point(94, 22)
+
+put the regPoint of member 98 of castLib "J4_CARDC"
+-- point(67, 13)
+
+put the regPoint of member 112 of castLib "J4_CARDC"
+-- point(31, 13)
+
+
+set the regPoint of member 8 of castLib "J4_CARDC" to point(99, 19)
+
+set the regPoint of member 44 of castLib "J4_CARDC" to point(96, 37)
+
+set the regPoint of member 47 of castLib "J4_CARDC" to point(96, 30)
+
+set the regPoint of member 48 of castLib "J4_CARDC" to point(96, 15)
+
+set the regPoint of member 53 of castLib "J4_CARDC" to point(30, 12)
+
+set the regPoint of member 54 of castLib "J4_CARDC" to point(30, 12)
+
+set the regPoint of member 55 of castLib "J4_CARDC" to point(30, 12)
+
+set the regPoint of member 56 of castLib "J4_CARDC" to point(30, 12)
+
+set the regPoint of member 57 of castLib "J4_CARDC" to point(95, 37)
+
+set the regPoint of member 58 of castLib "J4_CARDC" to point(94, 15)
+
+set the regPoint of member 59 of castLib "J4_CARDC" to point(94, 30)
+
+set the regPoint of member 60 of castLib "J4_CARDC" to point(93, 7)
+
+set the regPoint of member 61 of castLib "J4_CARDC" to point(74, 22)
+
+set the regPoint of member 62 of castLib "J4_CARDC" to point(94, 22)
+
+set the regPoint of member 63 of castLib "J4_CARDC" to point(94, 29)
+
+set the regPoint of member 65 of castLib "J4_CARDC" to point(94, 30)
+
+set the regPoint of member 66 of castLib "J4_CARDC" to point(95, 30)
+
+set the regPoint of member 67 of castLib "J4_CARDC" to point(94, 37)
+
+set the regPoint of member 68 of castLib "J4_CARDC" to point(94, 30)
+
+set the regPoint of member 69 of castLib "J4_CARDC" to point(94, 22)
+
+set the regPoint of member 70 of castLib "J4_CARDC" to point(94, 15)
+
+set the regPoint of member 71 of castLib "J4_CARDC" to point(94, 37)
+
+set the regPoint of member 72 of castLib "J4_CARDC" to point(94, 37)
+
+set the regPoint of member 75 of castLib "J4_CARDC" to point(94, 22)
+
+set the regPoint of member 98 of castLib "J4_CARDC" to point(67, 13)
+
+set the regPoint of member 112 of castLib "J4_CARDC" to point(31, 13)
+
+
+
