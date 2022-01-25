@@ -14,3 +14,12 @@ Cast member 42's name clips into the text. There are ongoing efforts to move thi
 
 H1_GAMF
 Member 135 (the only file being replaced) can't be found in score so we can't test or verify whether it is in-game.
+
+H2_GAMEC
+Cannot verify whether some registration points are correct (namely H2_GAMEC.cxt_117, H2_GAMEC.cxt_118, H2_GAMEC.cxt_119, H2_GAMEC.cxt_120, H2_GAMEC.cxt_122). The registration points were previously 0,0 but we changed the size of the images, so we used the formula to calculate the new registration points resulting in a much larger X value.
+
+J4_CARDC.CXT
+Member 8 could be better arranged to fit the textbox (see screenshot)
+Member 47 could possibly be better arranged to fit the textbox (see screenshot)
+Member 75 has some buggy looking text
+
