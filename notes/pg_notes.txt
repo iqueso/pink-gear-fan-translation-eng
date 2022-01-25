@@ -1410,3 +1410,10 @@ put the regPoint of member 116 of castLib "J2_CARDC"
 -- point(91, 16)
 
 set the regPoint of member 116 of castLib "J2_CARDC" to point(91, 16)
+
+
+J3_CARDC.CXT
+put the regPoint of member 46 of castLib "J3_CARDC"
+-- point(90, 16)
+
+set the regPoint of member 46 of castLib "J3_CARDC" to point(90, 16)
