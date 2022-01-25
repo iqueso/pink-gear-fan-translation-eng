@@ -1346,3 +1346,67 @@ set the regPoint of member 271 of castLib "H2_GAMEC" to point(0, 0)
 set the regPoint of member 272 of castLib "H2_GAMEC" to point(0, 0)
 
 set the regPoint of member 273 of castLib "H2_GAMEC" to point(0, 0)
+
+H3_GAMEC.CXT
+put the regPoint of member 16 of castLib "H3_GAMEC"
+-- point(108, 102)
+
+put the regPoint of member 19 of castLib "H3_GAMEC"
+-- point(92, 38)
+
+put the regPoint of member 20 of castLib "H3_GAMEC"
+-- point(92, 30)
+
+put the regPoint of member 21 of castLib "H3_GAMEC"
+-- point(92, 22)
+
+put the regPoint of member 22 of castLib "H3_GAMEC"
+-- point(92, 22)
+
+put the regPoint of member 23 of castLib "H3_GAMEC"
+-- point(92, 22)
+
+put the regPoint of member 24 of castLib "H3_GAMEC"
+-- point(92, 29)
+
+put the regPoint of member 25 of castLib "H3_GAMEC"
+-- point(92, 22)
+
+put the regPoint of member 26 of castLib "H3_GAMEC"
+-- point(92, 22)
+
+put the regPoint of member 27 of castLib "H3_GAMEC"
+-- point(92, 29)
+
+put the regPoint of member 28 of castLib "H3_GAMEC"
+-- point(92, 22)
+
+
+set the regPoint of member 16 of castLib "H3_GAMEC" to point(108, 102)
+
+set the regPoint of member 19 of castLib "H3_GAMEC" to point(92, 38)
+
+set the regPoint of member 20 of castLib "H3_GAMEC" to point(92, 30)
+
+set the regPoint of member 21 of castLib "H3_GAMEC" to point(92, 22)
+
+set the regPoint of member 22 of castLib "H3_GAMEC" to point(92, 22)
+
+set the regPoint of member 23 of castLib "H3_GAMEC" to point(92, 22)
+
+set the regPoint of member 24 of castLib "H3_GAMEC" to point(92, 29)
+
+set the regPoint of member 25 of castLib "H3_GAMEC" to point(92, 22)
+
+set the regPoint of member 26 of castLib "H3_GAMEC" to point(92, 22)
+
+set the regPoint of member 27 of castLib "H3_GAMEC" to point(92, 29)
+
+set the regPoint of member 28 of castLib "H3_GAMEC" to point(92, 22)
+
+
+J2_CARDC.CXT
+put the regPoint of member 116 of castLib "J2_CARDC"
+-- point(91, 16)
+
+set the regPoint of member 116 of castLib "J2_CARDC" to point(91, 16)
