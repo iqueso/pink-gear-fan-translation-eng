@@ -1552,4 +1552,9 @@ set the regPoint of member 98 of castLib "J4_CARDC" to point(67, 13)
 set the regPoint of member 112 of castLib "J4_CARDC" to point(31, 13)
 
 
+J5_CARSC.CXT
+put the regPoint of member 106 of castLib "J5_CARSC"
+-- point(91, 17)
+
+set the regPoint of member 106 of castLib "J5_CARSC" to point(91, 17)
 
