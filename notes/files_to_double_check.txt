@@ -1,9 +1,10 @@
 A_IN03C
 Cast members 135 - 139 look a bit off center (biased to the right). The original text may have this trait too. Maybe fix in the future.
 
+C2_TWINC - Player name is a bit off. If we develop a method to move text, just move it down slightly. If not, edit regpoint of the member slightly up.
+
 C7_BASEC
 Cast member 97 has some clipping with the player name in the score preview of Director MX 
-
 
 E3_GUITC
 Cast members 44, 45, and 61 unnecessarily reference the player name. We had to make modifications to these members to fit the text. We should look into scripting the player name out if possible/necessary. Cast member regpoints were manually modified to better center the images.
@@ -14,7 +15,6 @@ Cast member 42's name clips into the text. There are ongoing efforts to move thi
 
 H1_GAMF
 Member 135 (the only file being replaced) can't be found in score so we can't test or verify whether it is in-game.
-
 H2_GAMEC
 Cannot verify whether some registration points are correct (namely H2_GAMEC.cxt_117, H2_GAMEC.cxt_118, H2_GAMEC.cxt_119, H2_GAMEC.cxt_120, H2_GAMEC.cxt_122). The registration points were previously 0,0 but we changed the size of the images, so we used the formula to calculate the new registration points resulting in a much larger X value.
 
@@ -23,3 +23,6 @@ Member 8 could be better arranged to fit the textbox (see screenshot)
 Member 47 could possibly be better arranged to fit the textbox (see screenshot)
 Member 75 has some buggy looking text
 
+K5_PIAC.CXT
+Cast member 88, 111 elipses are pretty high.. some centering might be required as well.
+Other members could use some centering/touch-ups as well.

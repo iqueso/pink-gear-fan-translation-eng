@@ -1601,11 +1601,188 @@ put the regPoint of member 149 of castLib "K2_PIAC"
 put the regPoint of member 153 of castLib "K2_PIAC"
 -- point(146, 6)
 
+
 set the regPoint of member 147 of castLib "K2_PIAC" to point(159, 32)
 
 set the regPoint of member 149 of castLib "K2_PIAC" to point(105, 15)
 
 set the regPoint of member 153 of castLib "K2_PIAC" to point(146, 6)
+
+
+K5_PIAC.CXT
+put the regPoint of member 18 of castLib "K5_PIAC"
+-- point(74, 13)
+
+put the regPoint of member 36 of castLib "K5_PIAC"
+-- point(67, 13)
+
+put the regPoint of member 50 of castLib "K5_PIAC"
+-- point(67, 6)
+
+put the regPoint of member 88 of castLib "K5_PIAC"
+-- point(94, 36)
+
+put the regPoint of member 90 of castLib "K5_PIAC"
+-- point(89, 28)
+
+put the regPoint of member 91 of castLib "K5_PIAC"
+-- point(64, 10)
+
+put the regPoint of member 96 of castLib "K5_PIAC"
+-- point(0, 0)
+
+put the regPoint of member 97 of castLib "K5_PIAC"
+-- point(0, 0)
+
+put the regPoint of member 98 of castLib "K5_PIAC"
+-- point(91, 21)
+
+put the regPoint of member 99 of castLib "K5_PIAC"
+-- point(91, 21)
+
+put the regPoint of member 101 of castLib "K5_PIAC"
+-- point(83, 36)
+ 
+put the regPoint of member 103 of castLib "K5_PIAC"
+-- point(91, 5)
+
+put the regPoint of member 104 of castLib "K5_PIAC"
+-- point(79, 21)
+
+put the regPoint of member 105 of castLib "K5_PIAC"
+-- point(82, 21)
+
+put the regPoint of member 106 of castLib "K5_PIAC"
+-- point(91, 20)
+
+put the regPoint of member 107 of castLib "K5_PIAC"
+-- point(91, 6)
+
+put the regPoint of member 108 of castLib "K5_PIAC"
+-- point(79, 36)
+
+put the regPoint of member 109 of castLib "K5_PIAC"
+-- point(79, 36)
+
+put the regPoint of member 110 of castLib "K5_PIAC"
+-- point(91, 6)
+
+put the regPoint of member 111 of castLib "K5_PIAC"
+-- point(85, 28)
+
+put the regPoint of member 112 of castLib "K5_PIAC"
+-- point(91, 6)
+
+put the regPoint of member 113 of castLib "K5_PIAC"
+-- point(93, 36)
+
+put the regPoint of member 114 of castLib "K5_PIAC"
+-- point(92, 28)
+
+put the regPoint of member 115 of castLib "K5_PIAC"
+-- point(80, 21)
+
+put the regPoint of member 116 of castLib "K5_PIAC"
+-- point(89, 36)
+
+put the regPoint of member 117 of castLib "K5_PIAC"
+-- point(76, 13)
+
+put the regPoint of member 118 of castLib "K5_PIAC"
+-- point(79, 13)
+
+put the regPoint of member 154 of castLib "K5_PIAC"
+-- point(68, 13)
+
+
+set the regPoint of member 18 of castLib "K5_PIAC" to point(84, 15)(manually modified, original is 96, 18 after formula applied)
+
+set the regPoint of member 36 of castLib "K5_PIAC" to point(67, 13)
+
+set the regPoint of member 50 of castLib "K5_PIAC" to point(67, 6)
+
+set the regPoint of member 88 of castLib "K5_PIAC" to point(94, 36)
+
+set the regPoint of member 90 of castLib "K5_PIAC" to point(89, 28)
+
+set the regPoint of member 91 of castLib "K5_PIAC" to point(64, 10)
+
+set the regPoint of member 96 of castLib "K5_PIAC" to point(0, 0)
+
+set the regPoint of member 97 of castLib "K5_PIAC" to point(0, 0)
+
+set the regPoint of member 98 of castLib "K5_PIAC" to point(91, 21)
+
+set the regPoint of member 99 of castLib "K5_PIAC" to point(91, 21)
+
+set the regPoint of member 101 of castLib "K5_PIAC" to point(83, 36)
+
+set the regPoint of member 103 of castLib "K5_PIAC" to point(91, 5)
+
+set the regPoint of member 104 of castLib "K5_PIAC" to point(79, 21)
+
+set the regPoint of member 105 of castLib "K5_PIAC" to point(82, 21)
+
+set the regPoint of member 106 of castLib "K5_PIAC" to point(91, 20)
+
+set the regPoint of member 107 of castLib "K5_PIAC" to point(91, 6)
+
+set the regPoint of member 108 of castLib "K5_PIAC" to point(79, 37)
+
+set the regPoint of member 109 of castLib "K5_PIAC" to point(79, 37)
+
+set the regPoint of member 110 of castLib "K5_PIAC" to point(91, 6)
+
+set the regPoint of member 111 of castLib "K5_PIAC" to point(85, 28)
+
+set the regPoint of member 112 of castLib "K5_PIAC" to point(91, 6)
+
+set the regPoint of member 113 of castLib "K5_PIAC" to point(93, 36)
+
+set the regPoint of member 114 of castLib "K5_PIAC" to point(92, 28)
+
+set the regPoint of member 115 of castLib "K5_PIAC" to point(80, 21)
+
+set the regPoint of member 116 of castLib "K5_PIAC" to point(89, 36)
+
+set the regPoint of member 117 of castLib "K5_PIAC" to point(76, 13)
+
+set the regPoint of member 118 of castLib "K5_PIAC" to point(79, 13)
+
+set the regPoint of member 154 of castLib "K5_PIAC" to point(68, 13)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
