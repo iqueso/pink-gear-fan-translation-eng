@@ -1589,3 +1589,24 @@ set the regPoint of member 44 of castLib "JK2_STC" to point(79, 30)
 set the regPoint of member 45 of castLib "JK2_STC" to point(53, 6) (manually modified, original 76, 6)
 
 set the regPoint of member 51 of castLib "JK2_STC" to point(51, 12)(manually modified, original 61, 14)
+
+
+K2_PIAC.CXT
+put the regPoint of member 147 of castLib "K2_PIAC"
+-- point(159, 32)
+
+put the regPoint of member 149 of castLib "K2_PIAC"
+-- point(105, 15)
+
+put the regPoint of member 153 of castLib "K2_PIAC"
+-- point(146, 6)
+
+set the regPoint of member 147 of castLib "K2_PIAC" to point(159, 32)
+
+set the regPoint of member 149 of castLib "K2_PIAC" to point(105, 15)
+
+set the regPoint of member 153 of castLib "K2_PIAC" to point(146, 6)
+
+
+
+
