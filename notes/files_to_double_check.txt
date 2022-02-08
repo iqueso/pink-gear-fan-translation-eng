@@ -32,3 +32,7 @@ Dimension changes and references player name.. probably will need to move player
 
 M4_PIAC.CXT
 Dimension changes and references player name.. probably will need to move player name location when we are able to do that.
+
+NA6_BOXC.CXT
+Member 71, 73, 74 could use centering..
+Member 100 might be messed up because of dimension changes and player name mention.
