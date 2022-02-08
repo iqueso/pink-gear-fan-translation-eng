@@ -1766,9 +1766,47 @@ put the regPoint of member 84 of castLib "M4_PIAC"
 set the regPoint of member 84 of castLib "M4_PIAC" to point(160, 262)
 
 
+NA6_BOXC.CXT
+put the regPoint of member 67 of castLib "NA6_BOXC"
+-- point(88, 29)
+
+put the regPoint of member 69 of castLib "NA6_BOXC"
+-- point(101, 29)
+
+put the regPoint of member 70 of castLib "NA6_BOXC"
+-- point(97, 37)
+
+put the regPoint of member 71 of castLib "NA6_BOXC"
+-- point(80, 36)
+
+put the regPoint of member 72 of castLib "NA6_BOXC"
+-- point(85, 21)
+
+put the regPoint of member 73 of castLib "NA6_BOXC"
+-- point(87, 36)
+
+put the regPoint of member 74 of castLib "NA6_BOXC"
+-- point(81, 29)
+
+put the regPoint of member 100 of castLib "NA6_BOXC"
+-- point(140, 32)
 
 
+set the regPoint of member 67 of castLib "NA6_BOXC" to point(88, 29)
 
+set the regPoint of member 69 of castLib "NA6_BOXC" to point(101, 29)
+
+set the regPoint of member 70 of castLib "NA6_BOXC" to point(97, 37)
+
+set the regPoint of member 71 of castLib "NA6_BOXC" to point(80, 36)
+
+set the regPoint of member 72 of castLib "NA6_BOXC" to point(85, 21)
+
+set the regPoint of member 73 of castLib "NA6_BOXC" to point(87, 36)
+
+set the regPoint of member 74 of castLib "NA6_BOXC" to point(81, 29)
+
+set the regPoint of member 100 of castLib "NA6_BOXC" to point(142, 32)
 
 
 
