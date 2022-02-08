@@ -36,3 +36,27 @@ Dimension changes and references player name.. probably will need to move player
 NA6_BOXC.CXT
 Member 71, 73, 74 could use centering..
 Member 100 might be messed up because of dimension changes and player name mention.
+
+P2_COWC.CXT
+Members 172, 173 are not vertically aligned.
+Member 178's player name could be moved down a bit
+Member 184's player name could be moved up a bit
+Member 185's player name is way off
+Member 186's player name is probably way off too (can't see in editor)
+Member 196's player name could be moved with a consistent alignment choice once we get there.
+
+Members 188, 189 are essentially the same image whereas the originals are different colors
+Members 191, 192 are essentially the same image whereas the originals are different colors.
+
+
+
+
+
+
+
+
+
+
+
+
+

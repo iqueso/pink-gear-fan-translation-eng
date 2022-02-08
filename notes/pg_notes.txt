@@ -1809,6 +1809,116 @@ set the regPoint of member 74 of castLib "NA6_BOXC" to point(81, 29)
 set the regPoint of member 100 of castLib "NA6_BOXC" to point(142, 32)
 
 
+P2_COWC.CXT
+put the regPoint of member 148 of castLib "P2_COWC"
+-- point(158, 48)
+
+put the regPoint of member 167 of castLib "P2_COWC"
+-- point(153, 64)
+
+put the regPoint of member 172 of castLib "P2_COWC"
+-- point(27, 8)
+
+put the regPoint of member 173 of castLib "P2_COWC"
+-- point(27, 8)
+
+put the regPoint of member 174 of castLib "P2_COWC"
+-- point(78, 11)
+
+put the regPoint of member 175 of castLib "P2_COWC"
+-- point(78, 10)
+
+put the regPoint of member 176 of castLib "P2_COWC"
+-- point(78, 8)
+
+put the regPoint of member 177 of castLib "P2_COWC"
+-- point(78, 8)
+
+put the regPoint of member 178 of castLib "P2_COWC"
+-- point(175, 49)
+
+put the regPoint of member 183 of castLib "P2_COWC"
+-- point(110, 25)
+
+put the regPoint of member 184 of castLib "P2_COWC"
+-- point(112, 24)
+
+put the regPoint of member 185 of castLib "P2_COWC"
+-- point(83, 15)
+
+put the regPoint of member 186 of castLib "P2_COWC"
+-- point(83, 18)
+
+put the regPoint of member 188 of castLib "P2_COWC"
+-- point(30, 9)
+
+put the regPoint of member 189 of castLib "P2_COWC"
+-- point(30, 9)
+
+put the regPoint of member 191 of castLib "P2_COWC"
+-- point(30, 9)
+
+put the regPoint of member 192 of castLib "P2_COWC"
+-- point(30, 9)
+
+put the regPoint of member 196 of castLib "P2_COWC"
+-- point(164, 28)
+
+
+set the regPoint of member 148 of castLib "P2_COWC" to point(158, 48)
+
+set the regPoint of member 167 of castLib "P2_COWC" to point(153, 64)
+
+set the regPoint of member 172 of castLib "P2_COWC" to point(27, 8)
+
+set the regPoint of member 173 of castLib "P2_COWC" to point(27, 8)
+
+set the regPoint of member 174 of castLib "P2_COWC" to point(78, 11)
+
+set the regPoint of member 175 of castLib "P2_COWC" to point(78, 10)
+
+set the regPoint of member 176 of castLib "P2_COWC" to point(78, 8)
+
+set the regPoint of member 177 of castLib "P2_COWC" to point(78, 8)
+
+set the regPoint of member 178 of castLib "P2_COWC" to point(175, 49)
+
+set the regPoint of member 183 of castLib "P2_COWC" to point(110, 25)
+
+set the regPoint of member 184 of castLib "P2_COWC" to point(112, 26)
+
+set the regPoint of member 185 of castLib "P2_COWC" to point(158, 50)
+
+set the regPoint of member 186 of castLib "P2_COWC" to point(83, 20)
+
+set the regPoint of member 188 of castLib "P2_COWC" to point(30, 9)
+
+set the regPoint of member 189 of castLib "P2_COWC" to point(30, 9)
+
+set the regPoint of member 191 of castLib "P2_COWC" to point(30, 9)
+
+set the regPoint of member 192 of castLib "P2_COWC" to point(30, 9)
+
+set the regPoint of member 196 of castLib "P2_COWC" to point(164, 31)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
