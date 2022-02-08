@@ -1759,8 +1759,11 @@ put the regPoint of member 61 of castLib "K6_PIAC"
 set the regPoint of member 61 of castLib "K6_PIAC" to point(110, 18)
 
 
+M4_PIAC.CXT
+put the regPoint of member 84 of castLib "M4_PIAC"
+-- point(141, 261)
 
-
+set the regPoint of member 84 of castLib "M4_PIAC" to point(160, 262)
 
 
 

@@ -26,3 +26,9 @@ Member 75 has some buggy looking text
 K5_PIAC.CXT
 Cast member 88, 111 elipses are pretty high.. some centering might be required as well.
 Other members could use some centering/touch-ups as well.
+
+K6_PIAC.CXT
+Dimension changes and references player name.. probably will need to move player name location when we are able to do that.
+
+M4_PIAC.CXT
+Dimension changes and references player name.. probably will need to move player name location when we are able to do that.
