@@ -53,6 +53,9 @@ Member 53 has a grammatical error. "As for the instructions... Oh hoh, it seems 
 Member 113 could be moved ever so slightly to the left.
 
 
+Q6_PUCST.CXT
+Member 43 references player name and has dimension changes. May need to move player name. Maybe just remove player name entirely and redo image.. It sounds pretty weird with it in there. See screenshot.
+Member 78 references player name and has dimension changes.. will need to move player name.
 
 
 

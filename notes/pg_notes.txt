@@ -1961,9 +1961,32 @@ set the regPoint of member 123 of castLib "Q2_PUCST" to point(61, 28)
 set the regPoint of member 135 of castLib "Q2_PUCST" to point(61, 28)
 
 
+Q6_PUCST.CXT
+put the regPoint of member 32 of castLib "Q6_PUCST"
+-- point(101, 29)
+
+put the regPoint of member 43 of castLib "Q6_PUCST"
+-- point(101, 29)
+
+put the regPoint of member 50 of castLib "Q6_PUCST"
+-- point(101, 22)
+
+put the regPoint of member 57 of castLib "Q6_PUCST"
+-- point(101, 21)
+
+put the regPoint of member 78 of castLib "Q6_PUCST"
+-- point(139, 31)
 
 
+set the regPoint of member 32 of castLib "Q6_PUCST" to point(101, 29)
 
+set the regPoint of member 43 of castLib "Q6_PUCST" to point(101, 34)
+
+set the regPoint of member 50 of castLib "Q6_PUCST" to point(101, 27)
+
+set the regPoint of member 57 of castLib "Q6_PUCST" to point(101, 21)
+
+set the regPoint of member 78 of castLib "Q6_PUCST" to point(155, 32)
 
 
 
