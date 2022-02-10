@@ -48,8 +48,9 @@ Member 196's player name could be moved with a consistent alignment choice once 
 Members 188, 189 are essentially the same image whereas the originals are different colors
 Members 191, 192 are essentially the same image whereas the originals are different colors.
 
-
-
+Q2_PUCST.CXT
+Member 53 has a grammatical error. "As for the instructions... Oh hoh, it seems arleady heard them."
+Member 113 could be moved ever so slightly to the left.
 
 
 

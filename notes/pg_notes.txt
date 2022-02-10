@@ -1902,8 +1902,63 @@ set the regPoint of member 192 of castLib "P2_COWC" to point(30, 9)
 set the regPoint of member 196 of castLib "P2_COWC" to point(164, 31)
 
 
+Q2_PUCST.CXT
+
+put the regPoint of member 49 of castLib "Q2_PUCST"
+-- point(107, 29)
+
+put the regPoint of member 51 of castLib "Q2_PUCST"
+-- point(107, 29)
+
+put the regPoint of member 52 of castLib "Q2_PUCST"
+-- point(107, 14)
+
+put the regPoint of member 53 of castLib "Q2_PUCST"
+-- point(107, 22)
+
+put the regPoint of member 54 of castLib "Q2_PUCST"
+-- point(107, 29)
+
+put the regPoint of member 88 of castLib "Q2_PUCST"
+-- point(61, 21)
+
+put the regPoint of member 92 of castLib "Q2_PUCST"
+-- point(61, 22)
+
+put the regPoint of member 113 of castLib "Q2_PUCST"
+-- point(61, 22)
+
+put the regPoint of member 116 of castLib "Q2_PUCST"
+-- point(61, 21)
+
+put the regPoint of member 123 of castLib "Q2_PUCST"
+-- point(61, 28)
+
+put the regPoint of member 135 of castLib "Q2_PUCST"
+-- point(61, 28)
 
 
+set the regPoint of member 49 of castLib "Q2_PUCST" to point(107, 29)
+
+set the regPoint of member 51 of castLib "Q2_PUCST" to point(107, 29)
+
+set the regPoint of member 52 of castLib "Q2_PUCST" to point(107, 14)
+
+set the regPoint of member 53 of castLib "Q2_PUCST" to point(107, 22)
+
+set the regPoint of member 54 of castLib "Q2_PUCST" to point(107, 29)
+
+set the regPoint of member 88 of castLib "Q2_PUCST" to point(61, 21)
+
+set the regPoint of member 92 of castLib "Q2_PUCST" to point(70, 30)
+
+set the regPoint of member 113 of castLib "Q2_PUCST" to point(61, 22)
+
+set the regPoint of member 116 of castLib "Q2_PUCST" to point(61, 21)
+
+set the regPoint of member 123 of castLib "Q2_PUCST" to point(61, 28)
+
+set the regPoint of member 135 of castLib "Q2_PUCST" to point(61, 28)
 
 
 
