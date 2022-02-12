@@ -2040,3 +2040,56 @@ put the regPoint of member 66 of castLib "U4_DRC"
 
 set the regPoint of member 66 of castLib "U4_DRC" to point(142, 32)
 
+
+W4_SAXC.CXT
+put the regPoint of member 79 of castLib "W4_SAXC"
+-- point(93, 14)
+
+put the regPoint of member 81 of castLib "W4_SAXC"
+-- point(93, 22)
+
+put the regPoint of member 82 of castLib "W4_SAXC"
+-- point(93, 29)
+
+put the regPoint of member 83 of castLib "W4_SAXC"
+-- point(93, 42)
+
+put the regPoint of member 85 of castLib "W4_SAXC"
+-- point(0, 0)
+
+put the regPoint of member 86 of castLib "W4_SAXC"
+-- point(0, 0)
+
+put the regPoint of member 87 of castLib "W4_SAXC"
+-- point(93, 37)
+
+put the regPoint of member 88 of castLib "W4_SAXC"
+-- point(93, 30)
+
+put the regPoint of member 89 of castLib "W4_SAXC"
+-- point(93, 22)
+
+put the regPoint of member 145 of castLib "W4_SAXC"
+-- point(139, 32)
+
+
+set the regPoint of member 79 of castLib "W4_SAXC" to point(93, 14)
+
+set the regPoint of member 81 of castLib "W4_SAXC" to point(93, 30)
+
+set the regPoint of member 82 of castLib "W4_SAXC" to point(93, 29)
+
+set the regPoint of member 83 of castLib "W4_SAXC" to point(93, 42)
+
+set the regPoint of member 85 of castLib "W4_SAXC" to point(0, 0)
+
+set the regPoint of member 86 of castLib "W4_SAXC" to point(0, 0)
+
+set the regPoint of member 87 of castLib "W4_SAXC" to point(93, 38)
+
+set the regPoint of member 88 of castLib "W4_SAXC" to point(93, 30)
+
+set the regPoint of member 89 of castLib "W4_SAXC" to point(93, 22)
+
+set the regPoint of member 145 of castLib "W4_SAXC" to point(155, 32)
+
