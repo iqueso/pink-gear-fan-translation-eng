@@ -2032,3 +2032,11 @@ set the regPoint of member 113 of castLib "U2_DRCT" to point(101, 14)
 set the regPoint of member 114 of castLib "U2_DRCT" to point(101, 22)
 
 set the regPoint of member 115 of castLib "U2_DRCT" to point(101, 22)
+
+
+U4_DRC.CXT
+put the regPoint of member 66 of castLib "U4_DRC"
+-- point(139, 31)
+
+set the regPoint of member 66 of castLib "U4_DRC" to point(142, 32)
+
