@@ -1989,6 +1989,11 @@ set the regPoint of member 57 of castLib "Q6_PUCST" to point(101, 21)
 set the regPoint of member 78 of castLib "Q6_PUCST" to point(155, 32)
 
 
+T83_DRC.CXT
+put the regPoint of member 38 of castLib "T83_DRC"
+-- point(110, 16)
+
+set the regPoint of member 38 of castLib "T83_DRC" to point(110, 18)
 
 
 
