@@ -1996,35 +1996,39 @@ put the regPoint of member 38 of castLib "T83_DRC"
 set the regPoint of member 38 of castLib "T83_DRC" to point(110, 18)
 
 
+U2_DRCT.CXT
+put the regPoint of member 108 of castLib "U2_DRCT"
+-- point(101, 22)
+
+put the regPoint of member 110 of castLib "U2_DRCT"
+-- point(101, 29)
+
+put the regPoint of member 111 of castLib "U2_DRCT"
+-- point(101, 21)
+
+put the regPoint of member 112 of castLib "U2_DRCT"
+-- point(101, 14)
+
+put the regPoint of member 113 of castLib "U2_DRCT"
+-- point(101, 14)
+
+put the regPoint of member 114 of castLib "U2_DRCT"
+-- point(101, 22)
+
+put the regPoint of member 115 of castLib "U2_DRCT"
+-- point(101, 22)
 
 
+set the regPoint of member 108 of castLib "U2_DRCT" to point(101, 27)
 
+set the regPoint of member 110 of castLib "U2_DRCT" to point(101, 29)
 
+set the regPoint of member 111 of castLib "U2_DRCT" to point(101, 21)
 
+set the regPoint of member 112 of castLib "U2_DRCT" to point(101, 18)
 
+set the regPoint of member 113 of castLib "U2_DRCT" to point(101, 14)
 
+set the regPoint of member 114 of castLib "U2_DRCT" to point(101, 22)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-set the regPoint of member 61 of castLib "K6_PIAC" to point(110, 18)
-
+set the regPoint of member 115 of castLib "U2_DRCT" to point(101, 22)
