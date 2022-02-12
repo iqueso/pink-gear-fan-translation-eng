@@ -58,12 +58,22 @@ Member 43 references player name and has dimension changes. May need to move pla
 Member 78 references player name and has dimension changes.. will need to move player name.
 
 
+U2_DRCT.CXT
+Member 108's player name could be moved up a bit. The image could be moved up a bit too.
+Member 112's player name could be moved up a bit.
+
+
+U4_DRC.CXT
+Member 66 has dimension changes and player name mention.. will need to move player name a bit.
+
+
 W4_SAXC.CXT
 Member 79's player name could be moved to the right a bit.
 Member 83's player name could be moved down-right a bit.
 Member 87's player name could be moved down-right a bit.
 Member 88's player name could be moved right a tiny bit.
 Member 145 has dimension changes and references player name.. name will need to be moved a bit (left)
+
 
 
 
