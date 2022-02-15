@@ -79,6 +79,9 @@ Z01_LACT.CXT
 Member 43 has slight dimension change and mentions player name. Clips with players name a bit. Need to move player name right a bit.
 
 
+Z01_LCCT.CXT
+Member 43 has weird regpoints that don't seem to correspond to the dimensions. It probably also clips badly with the player name so we should just manually set this one.
+
 
 
 
