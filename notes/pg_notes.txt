@@ -2106,3 +2106,71 @@ put the regPoint of member 43 of castLib "Z01_LCCT"
 -- point(76, 10)
 
 set the regPoint of member 43 of castLib "Z01_LCCT" to point(76, 11)
+
+
+Z05_LACT.CXT
+put the regPoint of member 76 of castLib "Z05_LACT"
+-- point(87, 21)
+
+put the regPoint of member 78 of castLib "Z05_LACT"
+-- point(87, 29)
+
+put the regPoint of member 79 of castLib "Z05_LACT"
+-- point(87, 30)
+
+put the regPoint of member 80 of castLib "Z05_LACT"
+-- point(87, 22)
+
+put the regPoint of member 81 of castLib "Z05_LACT"
+-- point(87, 15)
+
+put the regPoint of member 82 of castLib "Z05_LACT"
+-- point(87, 37)
+
+put the regPoint of member 83 of castLib "Z05_LACT"
+-- point(87, 28)
+
+put the regPoint of member 86 of castLib "Z05_LACT"
+-- point(0, 0)
+
+put the regPoint of member 87 of castLib "Z05_LACT"
+-- point(0, 0)
+
+put the regPoint of member 88 of castLib "Z05_LACT"
+-- point(87, 23)
+
+put the regPoint of member 89 of castLib "Z05_LACT"
+-- point(87, 22)
+
+put the regPoint of member 90 of castLib "Z05_LACT"
+-- point(87, 30)
+
+put the regPoint of member 91 of castLib "Z05_LACT"
+-- point(87, 22)
+
+
+set the regPoint of member 76 of castLib "Z05_LACT" to point(87, 38)
+
+set the regPoint of member 78 of castLib "Z05_LACT" to point(87, 49)
+
+set the regPoint of member 79 of castLib "Z05_LACT" to point(87, 39)
+
+set the regPoint of member 80 of castLib "Z05_LACT" to point(87, 51)
+
+set the regPoint of member 81 of castLib "Z05_LACT" to point(87, 22)
+
+set the regPoint of member 82 of castLib "Z05_LACT" to point(87, 38)
+
+set the regPoint of member 83 of castLib "Z05_LACT" to point(87, 28)
+
+set the regPoint of member 86 of castLib "Z05_LACT" to point(0, 0)
+
+set the regPoint of member 87 of castLib "Z05_LACT" to point(0, 0)
+
+set the regPoint of member 88 of castLib "Z05_LACT" to point(87, 23)
+
+set the regPoint of member 89 of castLib "Z05_LACT" to point(87, 22)
+
+set the regPoint of member 90 of castLib "Z05_LACT" to point(87, 30)
+
+set the regPoint of member 91 of castLib "Z05_LACT" to point(87, 28)(manually set)
