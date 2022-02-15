@@ -84,6 +84,9 @@ Member 43 has weird regpoints that don't seem to correspond to the dimensions. I
 
 
 Z05_LACT.CXT
-Member 76, 78, 79 is too big and clips with the scroll arrow. Might need to pack more text or get creative (expand dialog.. move dialog etc. not impossible.)
+Member 76, 78, 79 is too big and clips with the scroll arrow. Might need to pack more text or get creative (expand dialog.. move dialog etc. not impossible.) (maybe split our dialog into parts and try to derail the execution to show our parts first)
 Member 80 is presumably too big and we will need to expand the dialog box or shorten text.
 Member 82 may be too big as well.
+
+Z07_LACT.CXT
+Various text centering issues.. maybe some artifacting with the text itself but nothing major.

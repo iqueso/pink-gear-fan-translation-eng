@@ -2225,3 +2225,101 @@ put the regPoint of member 24 of castLib "Z06_LCCT"
 -- point(69, 21)
 
 set the regPoint of member 24 of castLib "Z06_LCCT" to point(69, 30)(manually edited)
+
+
+
+Z07_LACT.CXT
+put the regPoint of member 12 of castLib "Z07_LACT"
+-- point(16, 93)
+
+put the regPoint of member 13 of castLib "Z07_LACT"
+-- point(140, 74)
+
+put the regPoint of member 14 of castLib "Z07_LACT"
+-- point(214, 55)
+
+put the regPoint of member 15 of castLib "Z07_LACT"
+-- point(97, 38)
+
+put the regPoint of member 16 of castLib "Z07_LACT"
+-- point(119, 3)
+
+put the regPoint of member 17 of castLib "Z07_LACT"
+-- point(-46, -29)
+
+put the regPoint of member 18 of castLib "Z07_LACT"
+-- point(73, -47)
+
+put the regPoint of member 19 of castLib "Z07_LACT"
+-- point(187, -64)
+
+put the regPoint of member 21 of castLib "Z07_LACT"
+-- point(16, 127)
+
+put the regPoint of member 22 of castLib "Z07_LACT"
+-- point(140, 107)
+
+put the regPoint of member 23 of castLib "Z07_LACT"
+-- point(208, 89)
+
+put the regPoint of member 24 of castLib "Z07_LACT"
+-- point(-46, 22)
+
+put the regPoint of member 25 of castLib "Z07_LACT"
+-- point(104, 4)
+
+put the regPoint of member 26 of castLib "Z07_LACT"
+-- point(68, -23)
+
+put the regPoint of member 27 of castLib "Z07_LACT"
+-- point(102, -46)
+
+put the regPoint of member 28 of castLib "Z07_LACT"
+-- point(148, -64)
+
+put the regPoint of member 29 of castLib "Z07_LACT"
+-- point(193, -81)
+
+put the regPoint of member 31 of castLib "Z07_LACT"
+-- point(63, -23)
+
+put the regPoint of member 32 of castLib "Z07_LACT"
+-- point(140, -64)
+
+set the regPoint of member 12 of castLib "Z07_LACT" to point(90, 93)
+
+set the regPoint of member 13 of castLib "Z07_LACT" to point(144, 74)
+
+set the regPoint of member 14 of castLib "Z07_LACT" to point(214, 55)
+
+set the regPoint of member 15 of castLib "Z07_LACT" to point(175, 38)
+
+set the regPoint of member 16 of castLib "Z07_LACT" to point(140, 3)
+
+set the regPoint of member 17 of castLib "Z07_LACT" to point(-46, -29)
+
+set the regPoint of member 18 of castLib "Z07_LACT" to point(85, -47)
+
+set the regPoint of member 19 of castLib "Z07_LACT" to point(187, -60)
+
+set the regPoint of member 21 of castLib "Z07_LACT" to point(16, 127)
+
+set the regPoint of member 22 of castLib "Z07_LACT" to point(140, 107)
+
+set the regPoint of member 23 of castLib "Z07_LACT" to point(208, 93)
+
+set the regPoint of member 24 of castLib "Z07_LACT" to point(-46, 22)
+
+set the regPoint of member 25 of castLib "Z07_LACT" to point(140, 5)
+
+set the regPoint of member 26 of castLib "Z07_LACT" to point(68, -23)
+
+set the regPoint of member 27 of castLib "Z07_LACT" to point(102, -46)
+
+set the regPoint of member 28 of castLib "Z07_LACT" to point(148, -64)
+
+set the regPoint of member 29 of castLib "Z07_LACT" to point(193, -79)
+
+set the regPoint of member 31 of castLib "Z07_LACT" to point(63, -23)
+
+set the regPoint of member 32 of castLib "Z07_LACT" to point(140, -64)
