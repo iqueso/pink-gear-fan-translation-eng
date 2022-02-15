@@ -2097,3 +2097,12 @@ set the regPoint of member 145 of castLib "W4_SAXC" to point(155, 32)
 Z01_LACT.CXT
 put the regPoint of member 43 of castLib "Z01_LACT"
 -- point(76, 10)
+
+set the regPoint of member 43 of castLib "Z01_LACT" to point(76, 10)
+
+
+Z01_LCCT.CXT
+put the regPoint of member 43 of castLib "Z01_LCCT"
+-- point(76, 10)
+
+set the regPoint of member 43 of castLib "Z01_LCCT" to point(76, 11)
