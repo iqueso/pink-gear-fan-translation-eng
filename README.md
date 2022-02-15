@@ -26,3 +26,4 @@ Nothing to really contribute at the moment. This project is in its early stages.
 # Updates
 
 **December 5, 2021:** All images have been translated and modifications to the game files begin.
+**February 15, 2022:** All casts have been modified and a very rough draft of the playable game will be available soon.
