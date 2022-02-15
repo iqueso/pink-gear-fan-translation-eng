@@ -75,6 +75,8 @@ Member 88's player name could be moved right a tiny bit.
 Member 145 has dimension changes and references player name.. name will need to be moved a bit (left)
 
 
+Z01_LACT.CXT
+Member 43 has slight dimension change and mentions player name. Clips with players name a bit. Need to move player name right a bit.
 
 
 
