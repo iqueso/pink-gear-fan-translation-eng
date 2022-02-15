@@ -83,5 +83,7 @@ Z01_LCCT.CXT
 Member 43 has weird regpoints that don't seem to correspond to the dimensions. It probably also clips badly with the player name so we should just manually set this one.
 
 
-
-
+Z05_LACT.CXT
+Member 76, 78, 79 is too big and clips with the scroll arrow. Might need to pack more text or get creative (expand dialog.. move dialog etc. not impossible.)
+Member 80 is presumably too big and we will need to expand the dialog box or shorten text.
+Member 82 may be too big as well.
