@@ -9,3 +9,4 @@ Refer to screenshots directory for numbered screenshots of issue. This will help
 4. In the game area, player name could be placed better.
 
 5. Crash when pulling up the trading menu in the game room. Selected "Items for Coins".
+5.1 Crash text says "script error, cast name is wrong"
