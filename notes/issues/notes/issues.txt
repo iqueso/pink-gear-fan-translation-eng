@@ -1,0 +1,11 @@
+Refer to screenshots directory for numbered screenshots of issue. This will help to identify the cast member(s) that the issue belongs to.
+
+0.1. Regarding player name off-center issues: We should try to find the character limit for the player name and base the textboxes around the longest possible player name before resolving issues involving player name centering.
+0.2. Some text placement rules might be helpful in making the placement of text more standard.
+
+1. In guitar area, text is off-center. Could be better centered.
+2. When obtaining the Red Fragment, the player name could be better centered.
+3. In the guitar area, text could be placed better vertically on this member. Closer to the dialog arrow.
+4. In the game area, player name could be placed better.
+
+5. Crash when pulling up the trading menu in the game room. Selected "Items for Coins".
