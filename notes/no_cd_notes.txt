@@ -1,0 +1,7 @@
+Run the game without iso file by "mounting" the directory to a drive (It should at least be after drive G: since the game checks for this) using the 'subst' command.
+
+Run the following in Command Prompt:
+subst <destination_drive_letter>: <path_to_PINKGEAR_directory>
+
+ex:
+subst H: C:\Users\User\Desktop\"PINKGEAR repo"\pink-gear-fan-translation-eng\game\PINKGEAR
