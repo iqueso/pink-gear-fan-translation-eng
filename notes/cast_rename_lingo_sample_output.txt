@@ -1,0 +1,57 @@
+Replacing cast names in B_STARTC:
+
+-- "Names for member:   108"
+-- "Decomp name:  "
+-- "Cast name:  B_STARTc.cxt_108"
+-- 
+-- "Renaming cast to decompiled cast..."
+-- "Done..."
+-- "New names: "
+-- "Decomp name:  "
+-- "Cast name:  "
+-- 
+-- 
+-- "Names for member:   147"
+-- "Decomp name:  OPcom1"
+-- "Cast name:  B_STARTc.cxt_147"
+-- 
+-- "Renaming cast to decompiled cast..."
+-- "Done..."
+-- "New names: "
+-- "Decomp name:  OPcom1"
+-- "Cast name:  OPcom1"
+-- 
+-- 
+-- "Names for member:   148"
+-- "Decomp name:  OPcom2"
+-- "Cast name:  B_STARTc.cxt_148"
+-- 
+-- "Renaming cast to decompiled cast..."
+-- "Done..."
+-- "New names: "
+-- "Decomp name:  OPcom2"
+-- "Cast name:  OPcom2"
+-- 
+-- 
+-- "Names for member:   149"
+-- "Decomp name:  STcom1"
+-- "Cast name:  B_STARTc.cxt_149"
+-- 
+-- "Renaming cast to decompiled cast..."
+-- "Done..."
+-- "New names: "
+-- "Decomp name:  STcom1"
+-- "Cast name:  STcom1"
+-- 
+-- 
+-- "Names for member:   150"
+-- "Decomp name:  SAcom1"
+-- "Cast name:  B_STARTc.cxt_150"
+-- 
+-- "Renaming cast to decompiled cast..."
+-- "Done..."
+-- "New names: "
+-- "Decomp name:  SAcom1"
+-- "Cast name:  SAcom1"
+-- 
+-- 

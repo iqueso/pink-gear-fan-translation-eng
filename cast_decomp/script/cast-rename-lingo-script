@@ -1,0 +1,24 @@
+on startMovie
+  set i = 1
+  repeat while (i < the number of members of castLib "<cast_with_original_names>" + 1)
+    if (the name of member i of castLib "<target_cast>" <> the name of member i of castLib "<cast_with_original_names>") then
+      put "Names for member:  " && i
+      put "Decomp name: " && the name of member i of castLib "<cast_with_original_names>"
+      put "Cast name: " &&  the name of member i of castLib "<target_cast>"
+      
+      put
+      
+      put "Renaming cast to original cast..."
+      set the name of member i of castLib "<target_cast>" to the name of member i of castLib "Z07_LACT_decomp"
+      put "Done..."
+      put "New names: "
+      put "Decomp name: " && the name of member i of castLib "<cast_with_original_names>"
+      put "Cast name: " && the name of member i of castLib "<target_cast>"
+      
+      put
+      put
+    end if
+    
+    set i = i + 1
+  end repeat
+end startMovie
