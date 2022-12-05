@@ -1,0 +1,12 @@
+Lingo script for applying original cast names to modified casts.
+
+Steps for replicating (Director 5)
+1. Load in source cast (either unprotected original cast or decompiled) with original cast names.
+2. Load in target cast (for instance, a cast that we have made image replacements for).
+3. Paste the script in as a movie-level cast (it should not appear as a member in either of the loaded-in casts).
+4. Replace the source cast name in the script with the source (decompiled or original (<cast_with_original_names> in script)). Replace the target cast name with your target cast name (<target_cast>).
+5. Compile and run. Observe output and verify name changes.
+6. Manually repeat for each cast.
+
+Note: There is an issue with this script in its current state that results in an index out-of-bounds issue. This is due to the indexing in the loop. This could likely be resolved with using a "repeat with" loop rather than a "repeat for" loop.
+Example output can be found in notes/cast_rename_lingo_sample_output.txt
