@@ -1,5 +1,5 @@
 # Pink Gear Collection English Fan Translation
-Work-in-progress english fan translation for PINK GEAR Collection, a point-and-click adventure game by Masami Ishimaru, published by TOSHIBA EMI (1997).
+Work-in-progress English fan translation for PINK GEAR Collection, a point-and-click adventure game by Masami Ishimaru, published by TOSHIBA EMI (1997).
 
 ![Pink Gear Screenshot 1](https://github.com/iQu3so/pink-gear-fan-translation-eng/raw/main/notes/screenshots/README_image_1.PNG)
 
@@ -30,3 +30,7 @@ Nothing to really contribute at the moment. This project is in its early stages.
 **February 15, 2022:** All casts have been modified and a very rough draft of the playable game will be available soon.
 
 **December 5, 2022:** Major crashes should be fixed, public beta version released.
+
+# Mentions
+ProjectorRays has been an extremely useful tool for understanding how casts and scripts are assembled.
+https://github.com/ProjectorRays/ProjectorRays
