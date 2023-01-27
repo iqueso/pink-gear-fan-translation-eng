@@ -34,4 +34,4 @@ Nothing to really contribute at the moment. This project is in its early stages.
 # Mentions
 ProjectorRays has been an extremely useful tool for understanding how casts and scripts are assembled.
 
-[ProjectorRays Github:](https://github.com/ProjectorRays/ProjectorRays)
+[ProjectorRays Github](https://github.com/ProjectorRays/ProjectorRays)
