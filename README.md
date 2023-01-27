@@ -1,10 +1,10 @@
 # Pink Gear Collection English Fan Translation
-Work-in-progress English fan translation for PINK GEAR Collection, a point-and-click adventure game by Masami Ishimaru, published by TOSHIBA EMI (1997).
+Work-in-progress English fan translation for Pink Gear Collection, a point-and-click adventure game by Masami Ishimaru, published by TOSHIBA EMI (1997).
 
 ![Pink Gear Screenshot 1](https://github.com/iQu3so/pink-gear-fan-translation-eng/raw/main/notes/screenshots/README_image_1.PNG)
 
 # About
-PINK GEAR Collection is made with Macromedia Director 5. This translation works by modifying cast members in protected cast files (.cxt extension) using Director 5. We are replacing cast member images containing Japanese text with modified images with English text. We then replace the original cast member file (.cxt), with our own cast member file. The game will then play our new cast file. This only works because the cast files in this game simply contain assets and not scripts.
+Pink Gear Collection is made with Macromedia Director 5. This translation works by modifying cast members in protected cast files (.cxt extension) using Director 5. We are replacing cast member images containing Japanese text with modified images with English text. We then replace the original cast member file (.cxt), with our own cast member file. The game will then play our new cast file. This only works because the cast files in this game simply contain assets and not scripts.
 
 # Credits
 LoneDev - Discord server, GARAGE: Bad Dream Adventure translation effort
