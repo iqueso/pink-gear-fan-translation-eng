@@ -20,7 +20,7 @@ MOS Technology 6502 - Pink Gear asset rips
 iQu3so/Kagrenac - Some image edits, cast replacements
 
 # Contributing
-Nothing to really contribute at the moment. This project is in its early stages. If you are a Macromedia Director whiz, a Photoshop whiz, or feel like you can contribute, [feel free to drop in the PINK GEAR channel in the Discord.](https://discord.gg/AWtvKs4) 
+Nothing to really contribute at the moment. This project is in its early stages. If you are a Macromedia Director whiz, a Photoshop whiz, or feel like you can contribute, [feel free to drop in the #pink-gear-collection channel in the Discord.](https://discord.gg/AWtvKs4) 
 
 
 # Updates
